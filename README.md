@@ -28,7 +28,7 @@ Mi objetivo no es solo crecer como desarrolladora, sino aportar, compartir y dis
 
 ###
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="left">🛠 Idiomas y Herramientas</h3>
 
 ###
 
